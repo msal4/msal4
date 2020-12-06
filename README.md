@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Hassah Book 🚀💙
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on open-source project! ✌😁
+- 👯 I’m looking to collaborate on open-source projects! ✌😁
 - 🤔 I’m looking for help with (nothing currently) 🚀
 - 💬 Ask me about Flutter, Go, TypeScript/JavaScript and anything related to frontend or backend development and I will answer eagerly! 😎
 - 📫 How to reach me: [Github](https://github.com/msal), [Twitter](https://twitter.com/4msal4), [Linkedin](https://www.linkedin.com/in/4msal/)

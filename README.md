@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Hassah Book an online bookstore for developing countries 🚀💙
+- 🔭 I’m currently working on Hassah Book a local online bookstore 🚀💙
 - 📫 How to reach me: [Github](https://github.com/msal), [Twitter](https://twitter.com/4msal4), [Linkedin](https://www.linkedin.com/in/4msal/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msal4&theme=onedark" alt="msal4" /></a> </p>

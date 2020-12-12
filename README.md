@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Hassah Book 🚀💙
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on open-source projects! ✌😁
-- 🤔 I’m looking for help with (nothing currently) 🚀
-- 💬 Ask me about Flutter, Go, TypeScript/JavaScript and anything related to frontend or backend development and I will answer eagerly! 😎
+- 🔭 I’m currently working on Hassah Book an online bookstore for developing countries 🚀💙
 - 📫 How to reach me: [Github](https://github.com/msal), [Twitter](https://twitter.com/4msal4), [Linkedin](https://www.linkedin.com/in/4msal/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I still live in Iraq!
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msal4&theme=onedark" alt="msal4" /></a> </p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=msal4&show_icons=true&locale=en&theme=onedark" alt="msal4" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=msal4&show_icons=true&locale=en&theme=onedark" alt="msal4" /></p>
 
 ### Languages & Tools
 
@@ -20,10 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-[![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=msal4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=msal4&show_icons=true&locale=en&theme=nord" alt="msal4" /></p>
-
-[![HitCount](http://hits.dwyl.com/msal4/msal4.svg)](http://hits.dwyl.com/msal4/msal4)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msal4&label=Profile%20views&color=0e75b6&style=flat" alt="msal4" /> </p>
 
 ### Follow me:
 
